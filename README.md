@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SatelMax
+- 👋 Hi, I’m @Sergey
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on ...
