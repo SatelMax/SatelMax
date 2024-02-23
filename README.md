@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Sergey
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Phyton
+- 🌱 I’m full-stack developer:
+- Python, JS, React JS, Django, Flask/ MongoBD and SQLite/ Docker/ Games
+- Plus ML and Data Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
